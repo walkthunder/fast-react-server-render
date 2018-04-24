@@ -1,0 +1,25 @@
+{
+  "name": "fast-react-server-render",
+  "version": "0.0.1",
+  "description": "Efficiently render react element to string with C.",
+  "main": "./src/index.js",
+  "repository": "walkthunder/fast-react-server-render",
+  "keywords": [
+    "react",
+    "SSR",
+    "render",
+    "fast"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walkthunder/fast-react-server-render/issues"
+  },
+  "homepage": "https://github.com/walkthunder/fast-react-server-render",
+  "dependencies": {
+    "react": "^16.0.0",
+    "fbjs": "^0.8.16",
+    "loose-envify": "^1.1.0",
+    "object-assign": "^4.1.1",
+    "prop-types": "^15.6.0"
+  }
+}
